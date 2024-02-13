@@ -1,0 +1,3 @@
+[submodule "Desktop/micro/tools/picoprobe"]
+	path = Desktop/micro/tools/picoprobe
+	url = https://github.com/raspberrypi/picoprobe.git
